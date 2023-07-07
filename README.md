@@ -1,4 +1,4 @@
-# CNC-diretorio de equpamento de usinagem
+# CNC-diretorio de equipamento de usinagem
 Este projeto tem a finalidade de usar conceitos aprendidos em sala de aula e aplicar em uma ideia  pessoal todo o conhecimento 
 adquirido na linguagem java.
 
