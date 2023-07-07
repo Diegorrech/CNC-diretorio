@@ -1,4 +1,7 @@
-# CNC-diretorio
-Este  é um programa feito em java que tem o objetivo de simular um sistema de maquina cnc, como se fosse o diretório da maquina assim 
-podendo cadastrar dados do processos como inserir dados do produto,medidas do item que for feito a usinagem.
-em uma maquina cnc temos varias funções e uma delas é fazer esse tipo de cadastro, assim armazenando dados ao hd do equipamento.
+# CNC-diretorio de equpamento de usinagem
+Este projeto tem a finalidade de usar conceitos aprendidos em sala de aula e aplicar em uma ideia  pessoal todo o conhecimento 
+adquirido em sala na linguagem java.
+
+Este programa simula um sistema de cadastro para empresa de usinagem, maquinas cnc tem varias funções e uma delas é poder cadastrar
+varias informações sobre o processo de usinagens e características do produto ou de programas de comando numérico computadorizado.
+
